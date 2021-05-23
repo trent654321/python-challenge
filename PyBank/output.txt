@@ -1,5 +1,5 @@
-Total Months: 1
-Total : $0
-AverageChange: 0.000000
-Greatest increase in profits: test 123 (0)
-Greatest decrease in profits: test 123 (0)
+Total Months: 86
+Total : $38382578
+AverageChange: -2315.12
+Greatest increase in profits: Feb-2012 (1926159)
+Greatest decrease in profits: Sep-2013 (-2196167)
